@@ -307,6 +307,8 @@ footer a {
     overflow: hidden;
     clip-path: inset(50%);
     white-space: nowrap;
+    color: #00274c;
+    background-color: #ffffff;
 }
 
 .skip-link:focus {
